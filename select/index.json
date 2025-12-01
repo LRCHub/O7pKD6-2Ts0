@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Timebomb",
+  "base_artist": "Two Friends、MOD SUN",
+  "createdAt": "2025-12-01T06:13:53.097270Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Timebomb",
+      "artist": "The Whitest Boy Alive",
+      "has_synced": true,
+      "path": "select/01_Timebomb_The_Whitest_Boy_Alive.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Timebomb",
+      "artist": "Tove Lo",
+      "has_synced": true,
+      "path": "select/02_Timebomb_Tove_Lo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Timebomb (Kateboy Remix)",
+      "artist": "Tove Lo",
+      "has_synced": false,
+      "path": "select/03_Timebomb_(Kateboy_Remix)_Tove_Lo.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Timebomb (Kate Boy remix)",
+      "artist": "Tove Lo",
+      "has_synced": false,
+      "path": "select/04_Timebomb_(Kate_Boy_remix)_Tove_Lo.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Timebomb (Lucas Nord Remix)",
+      "artist": "Tove Lo",
+      "has_synced": true,
+      "path": "select/05_Timebomb_(Lucas_Nord_Remix)_Tove_Lo.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Timebomb (Sonny Alven Remix)",
+      "artist": "Tove Lo",
+      "has_synced": true,
+      "path": "select/06_Timebomb_(Sonny_Alven_Remix)_Tove_Lo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Timebomb",
+      "artist": "Beck",
+      "has_synced": false,
+      "path": "select/07_Timebomb_Beck.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Timebomb",
+      "artist": "Chumbawamba",
+      "has_synced": true,
+      "path": "select/08_Timebomb_Chumbawamba.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Timebomb Zone",
+      "artist": "The Prodigy",
+      "has_synced": true,
+      "path": "select/09_Timebomb_Zone_The_Prodigy.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Timebomb",
+      "artist": "Kylie Minogue",
+      "has_synced": true,
+      "path": "select/10_Timebomb_Kylie_Minogue.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Timebomb",
+      "artist": "Public Enemy",
+      "has_synced": true,
+      "path": "select/11_Timebomb_Public_Enemy.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Timebomb",
+      "artist": "Lakefield",
+      "has_synced": true,
+      "path": "select/12_Timebomb_Lakefield.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Timebomb (Explicit)",
+      "artist": "Tove Lo",
+      "has_synced": true,
+      "path": "select/13_Timebomb_(Explicit)_Tove_Lo.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Timebomb",
+      "artist": "Nico Collins",
+      "has_synced": true,
+      "path": "select/14_Timebomb_Nico_Collins.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TIME BOMB",
+      "artist": "coldrain",
+      "has_synced": false,
+      "path": "select/pl_01_TIME_BOMB_coldrain.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Time bomb(feat.veela)",
+      "artist": "coldrain",
+      "has_synced": false,
+      "path": "select/pl_02_Time_bomb(feat.veela)_coldrain.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Time-Bomb",
+      "artist": "coldrain",
+      "has_synced": false,
+      "path": "select/pl_03_Time-Bomb_coldrain.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Time Bomb",
+      "artist": "coldrain",
+      "has_synced": false,
+      "path": "select/pl_04_Time_Bomb_coldrain.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Time-Bomb",
+      "artist": "coldrain",
+      "has_synced": false,
+      "path": "select/pl_05_Time-Bomb_coldrain.txt"
+    }
+  ]
+}
